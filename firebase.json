@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"mad-voting-app","appId":"1:357895086037:android:d3c76e6d659855ca1b275c","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"mad-voting-app","configurations":{"android":"1:357895086037:android:d3c76e6d659855ca1b275c","web":"1:357895086037:web:ceb30c2678b37fb81b275c"}}}}}}

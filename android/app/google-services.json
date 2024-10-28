@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357895086037",
+    "project_id": "mad-voting-app",
+    "storage_bucket": "mad-voting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357895086037:android:d3c76e6d659855ca1b275c",
+        "android_client_info": {
+          "package_name": "com.example.mad_voting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD012v2jQ2bJOlv0eyuH0QefAEay4hbovs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
